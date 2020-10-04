@@ -1,0 +1,11 @@
+asgiref==3.2.10
+bcrypt==3.2.0
+cffi==1.14.2
+Django==3.1
+mysqlclient @ file:///C:/Users/li/Downloads/mysqlclient-1.4.6-cp38-cp38-win32.whl
+pycparser==2.20
+PyJWT==1.7.1
+pytz==2020.1
+simplejson==3.17.2
+six==1.15.0
+sqlparse==0.3.1
